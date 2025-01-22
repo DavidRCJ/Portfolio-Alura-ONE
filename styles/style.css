@@ -99,6 +99,12 @@ body{
       font-family: var(--fuente-montserrat);
 }
 
+.fotoPerfil{
+    width: 40%;
+    height: 50%;
+    border-radius: 10%;
+}
+
 .presentacion__enlaces__link:hover{
     background-color: var(--color-hover);
 }
