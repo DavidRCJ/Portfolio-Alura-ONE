@@ -39,7 +39,20 @@ body{
 
 }
 
+.profile{
+    width: 12%;
+}
+.cyber{
+    width: 8%;
+}
+.cloud{
+      width: 8%;
+    }
 
+.credly{
+    width: 30%;
+    height: 10%;    
+}
 
 .presentacion {
     padding: 5% 15%;
@@ -86,14 +99,14 @@ body{
 .presentacion__enlaces__link{
       display: flex;
       justify-content: center;
-      gap: 16px;
+      gap: 30px;
       border: 2px solid var(--color-terciaria);
       width: 50%;
       text-align: center;
       border-radius: 8px;
       font-size: 1.5rem;
       font-weight: 600;
-      padding: 21.5px 0;
+      padding: 20px ;
       text-decoration: none;
       color: var(--color-secundaria);
       font-family: var(--fuente-montserrat);
@@ -118,7 +131,7 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--fuente-krona);
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 400;
 }
 
