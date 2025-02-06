@@ -42,12 +42,18 @@ body{
 .profile{
     width: 12%;
 }
+.alura{
+    width: 13%;
+  }
 .cyber{
-    width: 8%;
+    width: 10%;
 }
 .cloud{
       width: 8%;
     }
+.coursera{
+    width: 13%;
+}
 
 .credly{
     width: 30%;
@@ -119,11 +125,6 @@ body{
 .presentacion__imagen{
     width: 50%;
 }
-#alura{
-    width: 10%;
-    height: 5%;
-    border-radius: 10%
-}
 
 .fotoPerfil{
     width: 40%;
@@ -141,7 +142,7 @@ footer {
     justify-content: center;
     align-items: center;
     padding: 20px;
-    background-color: #222;
+    background-color: #222; 
 }
 .social-icons {
     display: flex;
@@ -149,8 +150,8 @@ footer {
 }
 .social-icons a {
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     overflow: hidden;
     transition: transform 0.3s ease, filter 0.3s ease;
